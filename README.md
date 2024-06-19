@@ -3,7 +3,7 @@
 
 # Site
 
-https://emessonsilva.github.io/Spotify-JS/
+https://spotifyinterface0.netlify.app/
 
 Para a funcionalidade de pesquisa funcionar, rode o seguinte comando:
 
